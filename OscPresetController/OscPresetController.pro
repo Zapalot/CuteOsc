@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       += core gui widgets
 QT += network
 TARGET = OscPresetController
 TEMPLATE = app
